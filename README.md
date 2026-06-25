@@ -1,37 +1,130 @@
-# 👋 Hi, I'm Jimmy García
+```console
+> boot profile...
 
-Full Stack Developer focused on building modern web applications, SaaS products, and digital solutions for real business problems.
+██████╗ ███╗   ███╗██████╗  █████╗
+██╔══██╗████╗ ████║██╔══██╗██╔══██╗
+██████╔╝██╔████╔██║██║  ██║███████║
+██╔══██╗██║╚██╔╝██║██║  ██║██╔══██║
+██║  ██║██║ ╚═╝ ██║██████╔╝██║  ██║
+╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝
 
-I enjoy working across the stack, from clean user interfaces to scalable backend services, product architecture, and deployment.
+Initializing developer profile...
 
-## 🚀 Currently building
+✓ Loading Frontend
+✓ Loading Backend
+✓ Loading SaaS Products
+✓ Loading NMDA Solutions
+✓ Loading NMDA Events
 
-* **NMDA Solutions** — software development, business platforms, and SaaS solutions
-* **NMDA Events** — SaaS platform for corporate event management, digital check-in, live surveys, campaigns, and analytics
+System ready.
+```
 
-## 🛠️ Tech Stack
+# Jimmy García
 
-**Frontend**
-Vue 3 · React · Astro · JavaScript · TypeScript · SCSS · Tailwind CSS
-
-**Backend**
-Node.js · Express · Firebase · REST APIs · JWT
-
-**Tools & DevOps**
-Docker · Git · GitHub · CI/CD basics · SEO · Performance Optimization
-
-## 🌐 Projects
-
-* [NMDA Solutions](https://nmdasolutions.com)
-* [NMDA Events](https://events.nmdasolutions.com)
-* [Portfolio](https://jimmygarcia.dev)
-
-## 📫 Contact
-
-* LinkedIn: https://www.linkedin.com/in/jimmygarcia-dev
-* GitHub: https://github.com/jimmygarcia-dev
-* Email: [contact@nmdasolutions.com](mailto:contact@nmdasolutions.com)
+> Building software that solves real business problems.
 
 ---
 
-Building step by step. One product at a time.
+## Current Focus
+
+```yaml
+Company:
+  - NMDA Solutions
+
+Products:
+  - NMDA Events
+
+Specialization:
+  - SaaS Platforms
+  - Business Software
+  - Modern Web Applications
+  - Interactive Experiences
+```
+
+---
+
+## Stack
+
+### Frontend
+
+```text
+Vue 3
+React
+Astro
+TypeScript
+JavaScript
+SCSS
+Tailwind CSS
+```
+
+### Backend
+
+```text
+Node.js
+Express
+Firebase
+REST APIs
+JWT
+```
+
+### DevOps
+
+```text
+Docker
+Git
+GitHub
+SEO
+Performance
+```
+
+---
+
+## Products
+
+### NMDA Solutions
+
+🌐 https://nmdasolutions.com
+
+Software development focused on modern business solutions.
+
+---
+
+### NMDA Events
+
+🌐 https://events.nmdasolutions.com
+
+Modern SaaS platform for
+
+• Attendee Registration
+
+• Digital Check-in
+
+• Live Surveys
+
+• Campaigns
+
+• Analytics
+
+---
+
+## Philosophy
+
+```cpp
+while (true)
+{
+    Learn();
+    Build();
+    Improve();
+    Ship();
+}
+```
+
+---
+
+## Connect
+
+🌐 https://nmdasolutions.com
+
+💼 https://linkedin.com/in/jimmygarcia-dev
+
+📂 https://github.com/jimmygarcia-dev
