@@ -1,53 +1,65 @@
 ```console
-> boot profile...
+──────────────────────────────────────────────────────────────
 
-██████╗ ███╗   ███╗██████╗  █████╗
-██╔══██╗████╗ ████║██╔══██╗██╔══██╗
-██████╔╝██╔████╔██║██║  ██║███████║
-██╔══██╗██║╚██╔╝██║██║  ██║██╔══██║
-██║  ██║██║ ╚═╝ ██║██████╔╝██║  ██║
-╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝
+███╗   ██╗███╗   ███╗██████╗  █████╗
+████╗  ██║████╗ ████║██╔══██╗██╔══██╗
+██╔██╗ ██║██╔████╔██║██║  ██║███████║
+██║╚██╗██║██║╚██╔╝██║██║  ██║██╔══██║
+██║ ╚████║██║ ╚═╝ ██║██████╔╝██║  ██║
+╚═╝  ╚═══╝╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝
 
-Initializing developer profile...
+Developer Terminal v2.6
 
-✓ Loading Frontend
-✓ Loading Backend
-✓ Loading SaaS Products
-✓ Loading NMDA Solutions
-✓ Loading NMDA Events
+──────────────────────────────────────────────────────────────
 
-System ready.
+> whoami
+
+Jimmy García
+
+Full Stack Developer
+Founder @ NMDA Solutions
+
+> status
+
+Building products...
 ```
 
-# Jimmy García
+# 👋 Welcome
 
-> Building software that solves real business problems.
+I build software that solves real business problems.
+
+Not demos.
+
+Not tutorials.
+
+Real products.
 
 ---
 
-## Current Focus
+# 🚀 Current Products
 
-```yaml
-Company:
-  - NMDA Solutions
+```text
+NMDA Solutions
+├── Business Websites
+├── Corporate Software
+└── SaaS Development
 
-Products:
-  - NMDA Events
-
-Specialization:
-  - SaaS Platforms
-  - Business Software
-  - Modern Web Applications
-  - Interactive Experiences
+NMDA Events
+├── Attendee Registration
+├── Digital Check-in
+├── Live Surveys
+├── Campaigns
+├── Analytics
+└── Multi-Organization
 ```
 
 ---
 
-## Stack
+# ⚙ Tech Stack
 
 ### Frontend
 
-```text
+```txt
 Vue 3
 React
 Astro
@@ -59,7 +71,7 @@ Tailwind CSS
 
 ### Backend
 
-```text
+```txt
 Node.js
 Express
 Firebase
@@ -67,50 +79,75 @@ REST APIs
 JWT
 ```
 
-### DevOps
+### Infrastructure
 
-```text
+```txt
 Docker
 Git
 GitHub
 SEO
 Performance
+Linux
 ```
 
 ---
 
-## Products
+# 📦 Current Mission
 
-### NMDA Solutions
+```bash
+$ build software
+
+✔ Modern UI
+✔ Clean Architecture
+✔ High Performance
+✔ Business Value
+✔ Great User Experience
+
+Done.
+```
+
+---
+
+# 🌎 Projects
+
+🟧 NMDA Solutions
+
+https://nmdasolutions.com
+
+---
+
+🟧 NMDA Events
+
+https://events.nmdasolutions.com
+
+---
+
+# 📈 Currently Learning
+
+```text
+□ AI Integration
+■ Product Design
+■ SaaS Architecture
+■ Performance Optimization
+■ UX
+■ Docker
+■ Business
+```
+
+---
+
+# 🤝 Connect
 
 🌐 https://nmdasolutions.com
 
-Software development focused on modern business solutions.
+💼 https://linkedin.com/in/jimmygarcia-dev
+
+📂 https://github.com/jimmygarcia-dev
 
 ---
-
-### NMDA Events
-
-🌐 https://events.nmdasolutions.com
-
-Modern SaaS platform for
-
-• Attendee Registration
-
-• Digital Check-in
-
-• Live Surveys
-
-• Campaigns
-
-• Analytics
-
----
-
-## Philosophy
 
 ```cpp
-while (true)
+while (alive)
 {
     Learn();
     Build();
@@ -119,12 +156,13 @@ while (true)
 }
 ```
 
----
+```console
+jimmy@nmda:~$ git status
 
-## Connect
+On branch main
 
-🌐 https://nmdasolutions.com
+nothing to commit,
+working on the next product...
 
-💼 https://linkedin.com/in/jimmygarcia-dev
-
-📂 https://github.com/jimmygarcia-dev
+_
+```
