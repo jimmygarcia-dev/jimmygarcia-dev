@@ -1,4 +1,3 @@
-````markdown
 ```console
 ──────────────────────────────────────────
 
@@ -67,6 +66,8 @@ $ ls
 
 💼 https://linkedin.com/in/jimmygarcia-dev
 
+📂 https://github.com/jimmygarcia-dev
+
 ---
 
 ```cpp
@@ -78,4 +79,3 @@ while (alive)
     Ship();
 }
 ```
-````
