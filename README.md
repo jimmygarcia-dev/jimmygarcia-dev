@@ -1,3 +1,4 @@
+````markdown
 ```console
 ──────────────────────────────────────────
 
@@ -19,12 +20,12 @@ Jimmy García
 Software Engineer
 Founder @ NMDA Solutions
 
-Building products at NMDA Solutions.
+Building products with purpose.
 ```
 
 ---
 
-## Current Focus
+## Focus
 
 ```text
 ▸ SaaS Products
@@ -36,7 +37,7 @@ Building products at NMDA Solutions.
 
 ---
 
-## Currently Building
+## Products
 
 ```text
 NMDA Events
@@ -72,7 +73,9 @@ $ ls
 while (alive)
 {
     Learn();
+    Improve();
     Build();
     Ship();
 }
 ```
+````
