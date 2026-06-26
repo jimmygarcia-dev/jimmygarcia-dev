@@ -16,10 +16,10 @@ Developer Terminal
 
 Jimmy García
 
-Full Stack Developer
+Software Engineer
 Founder @ NMDA Solutions
 
-Building software with purpose.
+Building products at NMDA Solutions.
 ```
 
 ---
@@ -36,14 +36,12 @@ Building software with purpose.
 
 ---
 
-## Stack
+## Currently Building
 
 ```text
-Vue • React • Astro
-
-Node.js • Firebase
-
-TypeScript • Docker
+NMDA Events
+Interactive Experiences
+Modern SaaS
 ```
 
 ---
