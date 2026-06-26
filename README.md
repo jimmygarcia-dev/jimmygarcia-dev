@@ -19,9 +19,7 @@ Jimmy García
 Full Stack Developer
 Founder @ NMDA Solutions
 
-> status
-
-Building products...
+Building software, products and digital experiences.
 ```
 
 # 👋 Welcome
@@ -36,7 +34,17 @@ Real products.
 
 ---
 
-# 🚀 Current Products
+# 🌐 Portfolio
+
+🟧 **Jimmy García**
+
+https://jimmygarcia.dev
+
+Interactive portfolio focused on performance, UX and modern frontend experiences built with Astro.
+
+---
+
+# 🚀 Products
 
 ```text
 NMDA Solutions
@@ -48,7 +56,7 @@ NMDA Events
 ├── Attendee Registration
 ├── Digital Check-in
 ├── Live Surveys
-├── Campaigns
+├── Email Campaigns
 ├── Analytics
 └── Multi-Organization
 ```
@@ -59,7 +67,7 @@ NMDA Events
 
 ### Frontend
 
-```txt
+```text
 Vue 3
 React
 Astro
@@ -71,7 +79,7 @@ Tailwind CSS
 
 ### Backend
 
-```txt
+```text
 Node.js
 Express
 Firebase
@@ -81,13 +89,13 @@ JWT
 
 ### Infrastructure
 
-```txt
+```text
 Docker
 Git
-GitHub
-SEO
-Performance
+GitHub Actions
 Linux
+Performance
+SEO
 ```
 
 ---
@@ -110,39 +118,60 @@ Done.
 
 # 🌎 Projects
 
-🟧 NMDA Solutions
+## 🟧 Jimmy García
+
+https://jimmygarcia.dev
+
+Personal portfolio showcasing interactive web experiences, frontend engineering and creative development.
+
+---
+
+## 🟧 NMDA Solutions
 
 https://nmdasolutions.com
 
+Business websites, corporate software and custom SaaS solutions for companies looking to grow with technology.
+
 ---
 
-🟧 NMDA Events
+## 🟧 NMDA Events
 
 https://events.nmdasolutions.com
 
+Modern event management platform including attendee registration, digital check-in, campaigns, live surveys and analytics.
+
 ---
 
-# 📈 Currently Learning
+# 📈 Currently Building
 
 ```text
-□ AI Integration
-■ Product Design
-■ SaaS Architecture
+■ NMDA Events
+■ NMDA Solutions
+■ New SaaS Products
+■ AI Integrations
 ■ Performance Optimization
-■ UX
-■ Docker
-■ Business
+■ UX/UI
 ```
 
 ---
 
 # 🤝 Connect
 
-🌐 https://nmdasolutions.com
+🌐 Website
 
-💼 https://linkedin.com/in/jimmygarcia-dev
+https://nmdasolutions.com
 
-📂 https://github.com/jimmygarcia-dev
+👨‍💻 Portfolio
+
+https://jimmygarcia.dev
+
+💼 LinkedIn
+
+https://linkedin.com/in/jimmygarcia-dev
+
+📂 GitHub
+
+https://github.com/jimmygarcia-dev
 
 ---
 
@@ -162,7 +191,7 @@ jimmy@nmda:~$ git status
 On branch main
 
 nothing to commit,
-working on the next product...
+building the next product...
 
 _
 ```
