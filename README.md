@@ -6,17 +6,19 @@
 
 # Jimmy García
 
-### Software Engineer • SaaS Builder • Product Engineer
+### Senior Software Engineer • Founder @ NMDA Solutions
 
-Building scalable software, modern SaaS platforms and digital experiences.
+Building products people enjoy using.
 
 <p>
 
-<img src="https://img.shields.io/badge/Mexico-🇲🇽-151B23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Founder-151B23?style=for-the-badge&logo=apachekafka&logoColor=EC5C2C">
 
-<img src="https://img.shields.io/badge/20%2B-Years%20Experience-EC5C2C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SaaS%20Builder-151B23?style=for-the-badge&logo=icloud&logoColor=61DAFB">
 
-<img src="https://img.shields.io/badge/Open%20to-Remote%20Opportunities-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Remote-151B23?style=for-the-badge&logo=github&logoColor=34D399">
+
+<img src="https://img.shields.io/badge/20%2B%20Years-151B23?style=for-the-badge&logo=clockify&logoColor=FBBF24">
 
 </p>
 
