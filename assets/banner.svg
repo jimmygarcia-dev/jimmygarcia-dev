@@ -1,0 +1,180 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360">
+      <stop offset="0%" stop-color="#0B1020"/>
+      <stop offset="100%" stop-color="#12182B"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="500" y2="0">
+      <stop offset="0%" stop-color="#EC5C2C"/>
+      <stop offset="100%" stop-color="#F18C6B"/>
+    </linearGradient>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#000000" flood-opacity=".35"/>
+    </filter>
+
+    <style>
+
+      .title{
+        font:700 42px 'Segoe UI',Inter,Arial,sans-serif;
+        fill:#EAEAEA;
+      }
+
+      .subtitle{
+        font:500 20px 'Segoe UI',Inter,Arial,sans-serif;
+        fill:#9CA8BF;
+      }
+
+      .terminal{
+        font:500 18px 'Consolas','Fira Code','JetBrains Mono',monospace;
+        fill:#EAEAEA;
+      }
+
+      .terminal-gray{
+        font:500 18px 'Consolas','Fira Code','JetBrains Mono',monospace;
+        fill:#8A93A5;
+      }
+
+      .orange{
+        fill:#EC5C2C;
+      }
+
+      .blue{
+        fill:#61DAFB;
+      }
+
+      .pill{
+        font:600 14px 'Segoe UI',sans-serif;
+        fill:white;
+      }
+
+      .cursor{
+        animation:blink 1s infinite;
+      }
+
+      @keyframes blink{
+        50%{
+          opacity:0;
+        }
+      }
+
+      .progress{
+        stroke-dasharray:340;
+        stroke-dashoffset:340;
+        animation:load 2.4s ease forwards;
+      }
+
+      @keyframes load{
+        to{
+          stroke-dashoffset:45;
+        }
+      }
+
+    </style>
+
+  </defs>
+
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+
+  <circle cx="34" cy="32" r="6" fill="#FF5F56"/>
+  <circle cx="54" cy="32" r="6" fill="#FFBD2E"/>
+  <circle cx="74" cy="32" r="6" fill="#27C93F"/>
+
+  <text x="104" y="37" class="terminal-gray">
+    jimmy@nmda:~$
+  </text>
+
+  <!-- LEFT -->
+
+  <rect
+      x="60"
+      y="70"
+      width="690"
+      height="245"
+      rx="18"
+      fill="#111827"
+      stroke="#24314E"
+      filter="url(#shadow)"
+  />
+
+  <text x="95" y="110" class="terminal">
+    <tspan class="blue">&gt;</tspan> whoami
+  </text>
+
+  <text x="95" y="148" class="title">
+    Jimmy García
+  </text>
+
+  <text x="95" y="182" class="subtitle">
+    Senior Software Engineer
+  </text>
+
+  <text x="95" y="208" class="subtitle">
+    Founder @ NMDA Solutions
+  </text>
+
+  <text x="95" y="250" class="terminal-gray">
+    Building scalable SaaS platforms,
+  </text>
+
+  <text x="95" y="276" class="terminal-gray">
+    modern web applications and digital experiences.
+  </text>
+
+  <line
+      x1="95"
+      y1="300"
+      x2="435"
+      y2="300"
+      stroke="url(#accent)"
+      stroke-width="6"
+      stroke-linecap="round"
+      class="progress"
+  />
+
+  <rect
+      x="95"
+      y="292"
+      width="340"
+      height="16"
+      rx="8"
+      stroke="#24314E"
+      fill="none"
+  />
+
+  <!-- RIGHT -->
+
+  <text x="820" y="95" class="title">
+    NMDA Solutions
+  </text>
+
+  <text x="820" y="126" class="subtitle">
+    Building products with purpose.
+  </text>
+
+  <rect x="820" y="158" width="145" height="34" rx="17" fill="#EC5C2C"/>
+  <text x="848" y="180" class="pill">Vue.js</text>
+
+  <rect x="980" y="158" width="145" height="34" rx="17" fill="#1E3A8A"/>
+  <text x="1010" y="180" class="pill">React</text>
+
+  <rect x="820" y="208" width="145" height="34" rx="17" fill="#16A34A"/>
+  <text x="847" y="230" class="pill">Node.js</text>
+
+  <rect x="980" y="208" width="145" height="34" rx="17" fill="#0EA5E9"/>
+  <text x="998" y="230" class="pill">TypeScript</text>
+
+  <rect x="820" y="258" width="145" height="34" rx="17" fill="#2563EB"/>
+  <text x="842" y="280" class="pill">Firebase</text>
+
+  <rect x="980" y="258" width="145" height="34" rx="17" fill="#44403C"/>
+  <text x="1013" y="280" class="pill">Docker</text>
+
+  <text x="820" y="330" class="terminal">
+    jimmy@nmda:~$ <tspan class="cursor">█</tspan>
+  </text>
+
+</svg>

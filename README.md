@@ -1,28 +1,8 @@
 <div align="center">
 
-```text
-────────────────────────────────────────────────────────────
-
-███╗   ██╗███╗   ███╗██████╗  █████╗
-████╗  ██║████╗ ████║██╔══██╗██╔══██╗
-██╔██╗ ██║██╔████╔██║██║  ██║███████║
-██║╚██╗██║██║╚██╔╝██║██║  ██║██╔══██║
-██║ ╚████║██║ ╚═╝ ██║██████╔╝██║  ██║
-╚═╝  ╚═══╝╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝
-
-Developer Terminal
-
-────────────────────────────────────────────────────────────
-
-> whoami
-
-Jimmy García
-
-Senior Software Engineer
-Founder @ NMDA Solutions
-
-Building software people enjoy using.
-```
+<p align="center">
+    <img src="./assets/banner.svg" alt="Jimmy García Banner" width="100%">
+</p>
 
 # Jimmy García
 
