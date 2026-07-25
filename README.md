@@ -1,7 +1,7 @@
 <div align="center">
 
-```console
-──────────────────────────────────────────
+```text
+────────────────────────────────────────────────────────────
 
 ███╗   ██╗███╗   ███╗██████╗  █████╗
 ████╗  ██║████╗ ████║██╔══██╗██╔══██╗
@@ -12,48 +12,33 @@
 
 Developer Terminal
 
-──────────────────────────────────────────
+────────────────────────────────────────────────────────────
 
 > whoami
 
 Jimmy García
 
-Software Engineer
+Senior Software Engineer
 Founder @ NMDA Solutions
 
-Building products with purpose.
+Building software people enjoy using.
 ```
 
 # Jimmy García
 
-### Software Engineer • SaaS Builder • Founder @ NMDA Solutions
+### Software Engineer • SaaS Builder • Product Engineer
 
-Building software that solves real business problems.
+Building scalable software, modern SaaS platforms and digital experiences.
 
-<img src="https://img.shields.io/badge/Mexico-🇲🇽-151b23?style=for-the-badge">
-<img src="https://img.shields.io/badge/Spanish-Native-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/English-B2-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Open%20to-Remote%20Work-success?style=for-the-badge">
+<p>
 
-</div>
+<img src="https://img.shields.io/badge/Mexico-🇲🇽-151B23?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/15%2B-Years%20Experience-EC5C2C?style=for-the-badge"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Open%20to-Remote%20Opportunities-success?style=for-the-badge"/>
 
-<a href="https://github.com/jimmygarcia-dev">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jimmygarcia-dev&show_icons=true&theme=react&hide_border=false&include_all_commits=true&bg_color=0D1117&border_color=61DAFB"/>
-</a>
-
-<a href="https://github.com/jimmygarcia-dev">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmygarcia-dev&layout=compact&theme=react&bg_color=0D1117&border_color=61DAFB"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jimmygarcia-dev&theme=react&bg_color=0D1117&color=61DAFB&line=4899DB&point=61DAFB&area=true&hide_border=false&border_color=61DAFB"/>
+</p>
 
 </div>
 
@@ -61,44 +46,54 @@ Building software that solves real business problems.
 
 <div align="center">
 
-━━━━━━━━ ☆ ★ ☆ ━━━━━━━━
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jimmygarcia-dev&show_icons=true&theme=react&bg_color=0D1117&hide_border=false&border_color=61DAFB&include_all_commits=true"/>
 
-# Current Focus
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmygarcia-dev&layout=compact&theme=react&bg_color=0D1117&hide_border=false&border_color=61DAFB"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jimmygarcia-dev&theme=react&bg_color=0D1117&color=61DAFB&line=4899DB&point=61DAFB&area=true&hide_border=false"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 Currently Building
 
 </div>
 
 ```text
-▸ SaaS Products
-▸ Frontend Architecture
-▸ Full Stack Engineering
-▸ Product Design
-▸ Developer Experience
-▸ Performance
+NMDA Events
+
+A configurable SaaS platform for modern event management.
+
+✔ Event Registration
+✔ RSVP
+✔ QR Check-In
+✔ Badge Printing
+✔ Email Campaigns
+✔ WhatsApp Communication
+✔ Surveys
+✔ Interactive Experiences
+
+Next
+
+□ AI Features
+□ Analytics
+□ Seating Management
 ```
 
 ---
 
 <div align="center">
 
-# Current Status
+# ⚙️ Tech Stack
 
-</div>
-
-```text
-🟢 Building ............. NMDA Events
-🟢 Company .............. NMDA Solutions
-🟢 Learning ............. Spring Boot
-🟢 Exploring ............ AWS & Cloud Architecture
-🟢 Available for ........ Remote Opportunities
-```
-
----
-
-<div align="center">
-
-# Skills
-
-<img src="https://skillicons.dev/icons?i=ts,js,vue,react,astro,nodejs,express,spring,firebase,postgres,mysql,docker,git,tailwind,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=vue,react,ts,nodejs,spring,firebase,postgres,docker,astro,tailwind,git,vscode&perline=6"/>
 
 </div>
 
@@ -106,57 +101,36 @@ Building software that solves real business problems.
 
 <div align="center">
 
-# Featured Products
+# 🌎 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🟧 **NMDA Events** | Configurable Event Management SaaS |
+| 🌐 **jimmygarcia.dev** | Portfolio & Technical Blog |
+| 🏢 **NMDA Solutions** | Software Development Studio |
 
 </div>
-
-```text
-🟧 NMDA Events
-Enterprise Event Management Platform
-
-🌐 jimmygarcia.dev
-Developer Portfolio
-
-🏢 NMDA Solutions
-Software Development Studio
-```
 
 ---
 
 <div align="center">
 
-# Projects
-
-</div>
-
-```bash
-$ ls
-
-📂 NMDA Events
-📂 jimmygarcia.dev
-📂 nmdasolutions.com
-```
-
----
-
-<div align="center">
-
-# Let's Connect
+# 🤝 Connect
 
 <a href="https://jimmygarcia.dev">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://nmdasolutions.com">
-<img src="https://img.shields.io/badge/NMDA%20Solutions-EC5C2C?style=for-the-badge">
+<img src="https://img.shields.io/badge/NMDA%20Solutions-EC5C2C?style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/jimmygarcia-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/jimmygarcia-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<a href="mailto:contacto@nmdasolutions.com">
+<img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
@@ -165,7 +139,7 @@ $ ls
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jimmygarcia-dev&theme=react&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=jimmygarcia-dev&theme=react&background=0D1117&hide_border=true"/>
 
 </div>
 
@@ -177,7 +151,7 @@ $ ls
 while (alive)
 {
     Learn();
-    Improve();
+    Design();
     Build();
     Ship();
 }
@@ -189,8 +163,8 @@ while (alive)
 
 <div align="right">
 
-<img src="https://komarev.com/ghpvc/?username=jimmygarcia-dev&style=for-the-badge&color=61DAFB">
+<img src="https://komarev.com/ghpvc/?username=jimmygarcia-dev&style=for-the-badge&color=61DAFB"/>
 
-<img src="https://img.shields.io/github/followers/jimmygarcia-dev?label=Followers&style=for-the-badge&color=61DAFB&labelColor=131b39">
+<img src="https://img.shields.io/github/followers/jimmygarcia-dev?style=for-the-badge&color=61DAFB&labelColor=131b39"/>
 
 </div>
