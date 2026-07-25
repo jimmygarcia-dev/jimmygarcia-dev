@@ -55,6 +55,14 @@ Developer Experience
 Performance
 ```
 
+<div align="center">
+
+# Skills
+
+<img src="https://skillicons.dev/icons?i=ts,js,vue,react,nodejs,express,spring,firebase,postgres,mysql,docker,git,astro,tailwind"/>
+
+</div>
+
 ---
 
 ## Products
