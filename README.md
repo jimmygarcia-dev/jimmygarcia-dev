@@ -36,16 +36,23 @@ Building products with purpose.
 <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-success?style=for-the-badge">
 
 </div>
+
 ---
 
-## Focus
+<div align="center">
+
+━━━━━━━━ ☆ ★ ☆ ━━━━━━━━
+
+# Focus
+
+</div>
 
 ```text
-▸ SaaS Products
-▸ Frontend Engineering
-▸ Developer Experience
-▸ Performance
-▸ Product Design
+SaaS Products
+Frontend Architecture
+Product Engineering
+Developer Experience
+Performance
 ```
 
 ---
