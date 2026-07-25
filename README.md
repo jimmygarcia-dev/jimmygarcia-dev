@@ -34,7 +34,7 @@ Building scalable software, modern SaaS platforms and digital experiences.
 
 <img src="https://img.shields.io/badge/Mexico-🇲🇽-151B23?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/15%2B-Years%20Experience-EC5C2C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/20%2B-Years%20Experience-EC5C2C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Open%20to-Remote%20Opportunities-success?style=for-the-badge"/>
 
@@ -129,7 +129,7 @@ Next
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:contacto@nmdasolutions.com">
+<a href="mailto:contact@nmdasolutions.com">
 <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail"/>
 </a>
 
