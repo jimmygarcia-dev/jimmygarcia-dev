@@ -6,9 +6,11 @@
 
 # Jimmy García
 
-### Senior Software Engineer • Founder @ NMDA Solutions
+### Senior Full Stack & AI Engineer • Founder @ NMDA Solutions
 
-Building products people enjoy using.
+**Jimmy Ernesto García Contreras**, professionally known as Jimmy García.
+
+Building software that solves real problems.
 
 <p>
 
